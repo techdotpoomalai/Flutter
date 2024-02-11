@@ -1,0 +1,5 @@
+The Google Places API price works on a “pay as you go” model. 
+You can get a 90-day or $300-credit free trial of the Google Places API if you've 
+never used paid services on Google Cloud or the Google Maps Platform 
+(which includes the Google Places API). In addition, you get $200 worth of free request
+ credits each month.
